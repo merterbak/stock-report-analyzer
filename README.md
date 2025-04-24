@@ -8,4 +8,5 @@ This Python notebook retrieves and analyzes the latest SEC 10-Q filing for a giv
 - Generates a formatted PDF report with `reportlab`
 
 ## Roadmap
-Do this as python files work on locally with more info generation soon.
+
+Python files work on locally with more info generation soon.
